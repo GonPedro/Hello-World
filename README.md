@@ -1,2 +1,4 @@
 # Hello-World
-First one
+
+Hello!
+Just a shy person that likes to play games and watch anime!
